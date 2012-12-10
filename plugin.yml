@@ -1,0 +1,10 @@
+name: PartyManager
+main: com.gmail.scottmwoodward.partymanager.PartyManager
+version: 1.00
+
+commands:
+   party:
+      description: Controls all party functionality.
+      usage: /party
+      permission: partymanager.command.party
+      permission-message: You don't have permission to use /party

@@ -1,0 +1,6 @@
+# Boolean - Whether or not to send party chat to console (Default: true)
+partyChatToConsole: true
+# Boolean - Whether or not to use Vault to hook into custom prefixes and suffixes (Default: true)
+useVault: true
+# Integer - Maximum number of players in a party (including leader) (Default: 5)
+partySize: 5
